@@ -1,0 +1,2 @@
+# Tcl List Index Out of Bounds Error
+This repository demonstrates a common error in Tcl:  improperly handling list indices when accessing elements. The provided code attempts to access an element of a list using an index that is out of bounds.  The solution demonstrates a robust approach to handle this situation.
